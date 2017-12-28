@@ -29,7 +29,7 @@ int main ()
   int i, j;
  
   s1 = "kayak";
-  s2 = "canoe";
+  s2 = "canoe"
   s3 = "abccba";
   s4 = "abcdba";
 
